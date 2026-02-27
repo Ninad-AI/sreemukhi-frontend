@@ -13,9 +13,9 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "aanchalbadola — Voice Chat",
+  title: "Sreemukhi — Voice Chat",
   description:
-    "Premium interactive voice chat experience with aanchalbadola. Start a live session now.",
+    "Premium interactive voice chat experience with Sreemukhi. Start a live session now.",
 };
 
 export default function RootLayout({
